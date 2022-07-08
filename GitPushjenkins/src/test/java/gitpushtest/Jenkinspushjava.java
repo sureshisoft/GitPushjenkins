@@ -1,11 +1,15 @@
 package gitpushtest;
 
+import org.testng.annotations.Test;
+
 public class Jenkinspushjava {
 
-	public static void main(String[] args) {
+	@Test
+	public void getData()
+	{
 		// TODO Auto-generated method stub
 
-		System.out.println("First line suresh");
+		System.out.println("seond line suresh");
 	}
 
 }
