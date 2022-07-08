@@ -9,7 +9,7 @@ public class Jenkinspushjava {
 	{
 		// TODO Auto-generated method stub
 
-		System.out.println("seond line suresh");
+		System.out.println("from eclipe line suresh");
 	}
 
 }
