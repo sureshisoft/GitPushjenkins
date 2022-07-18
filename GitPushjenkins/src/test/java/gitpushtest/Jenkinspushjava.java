@@ -9,7 +9,7 @@ public class Jenkinspushjava {
 	{
 		// TODO Auto-generated method stub
 
-		System.out.println("jenkins push operation program updated");
+		System.out.println("ciklum manual qa team");
 	}
 
 }
